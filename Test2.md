@@ -3,3 +3,4 @@ Second test file
 * List Item 2
 
 Test edit through GitHub web interface
+Second test of remote changes
